@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // ... 其他配置
+    "lib": ["ES2015", "DOM", "DOM.Iterable"],
+    // ... 其他配置
+    "allowSyntheticDefaultImports": true
+  }
+}
